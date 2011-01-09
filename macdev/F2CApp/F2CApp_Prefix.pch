@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'F2CApp' target in the 'F2CApp' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

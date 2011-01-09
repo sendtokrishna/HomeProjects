@@ -1,0 +1,231 @@
+Ttemp
+v7
+r0
+t299683812.658350
+cCheck dependencies
+cProcessInfoPlistFile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/Info.plist temp-Info.plist
+cCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign3/temp/MainWindow.xib
+cProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch.gch temp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/main.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/tempAppDelegate.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/MyView.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m
+c000000004C2C985F0000000000000267
+t1277991007
+s615
+i"MyView.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.h
+c000000004C2C96D90000000000000134
+t1277990617
+s308
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m
+c000000004C2C96D90000000000000206
+t1277990617
+s518
+i"tempAppDelegate.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/MainWindow.xib
+c000000004C2C976200000000000043A4
+t1277990754
+s17316
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/MyView.h
+c000000004C2C976B00000000000000D1
+t1277990763
+s209
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/MyView.m
+c000000004C2C976B00000000000000A1
+t1277990763
+s161
+i"MyView.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app
+t2
+s0
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app.dSYM
+t2
+s0
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/Info.plist
+t1277991011
+s581
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/MainWindow.nib
+t1277991011
+s1550
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/PkgInfo
+t1277991011
+s8
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/temp
+t2
+s0
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/MyView.o
+t2
+s0
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/main.o
+t1277991012
+s5972
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/temp.LinkFileList
+c000000004C2C9863000000000000018D
+t1277991011
+s397
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/tempAppDelegate.o
+t1277991012
+s17296
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m
+c000000004C2C96D9000000000000015C
+t1277990617
+s348
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign3/temp/temp_Prefix.pch
+c000000004C2C96D900000000000000B1
+t1277990617
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch.gch
+t1277991012
+s13026768
+
+Ntemp-Info.plist
+c000000004C2C96D9000000000000038D
+t1277990617
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299683811#299683811#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/MyView.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299683812.619174
+e299683812.658243
+r0
+xCompileC
+xbuild/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/MyView.o
+x/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m: In function '-[MyView drawRect:]':
+o/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m:27: error: 'UIColot' undeclared (first use in this function)
+o/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m:27: error: (Each undeclared identifier is reported only once
+o/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m:27: error: for each function it appears in.)
+lSLF07#2@78"Compile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m299683812#299683812#0(487"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m: In function '-[MyView drawRect:]':/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m:27: error: 'UIColot' undeclared (first use in this function)/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m:27: error: (Each undeclared identifier is reported only once/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m:27: error: for each function it appears in.)1(4@49"'UIColot' undeclared (first use in this function)299683812#107#132#0(6@70"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m299683807#27#0#27#0#43"'*' undeclared (first use in this function)0(0#0#70"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m4300911832#1946"    cd /Users/kps/Developer/iphonedev/cs193p/assign3/temp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/../MyView.m -o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/MyView.o1#
+
+CCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/MyView.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/main.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299683812.451975
+e299683812.619005
+r1
+xCompileC
+xbuild/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/main.o
+x/Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m299683812#299683812#0(0"0(0#0#57"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m4300911832#1931"    cd /Users/kps/Developer/iphonedev/cs193p/assign3/temp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign3/temp/main.m -o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/tempAppDelegate.o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299683812.453462
+e299683812.620313
+r1
+xCompileC
+xbuild/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/tempAppDelegate.o
+x/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m299683812#299683812#0(0"0(0#0#76"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m4300911832#1961"    cd /Users/kps/Developer/iphonedev/cs193p/assign3/temp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign3/temp/Classes/tempAppDelegate.m -o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/Objects-normal/i386/tempAppDelegate.o0#
+
+CCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign3/temp/MainWindow.xib
+s299683811.131000
+e299683811.402483
+r1
+xCompileXIB
+x/Users/kps/Developer/iphonedev/cs193p/assign3/temp/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib299683811#299683811#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/MainWindow.xib30399731284181092#515"    cd /Users/kps/Developer/iphonedev/cs193p/assign3/temp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/MainWindow.nib /Users/kps/Developer/iphonedev/cs193p/assign3/temp/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app.dSYM /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/temp
+r0
+
+CLd /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/temp normal i386
+r0
+
+CProcessInfoPlistFile /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/Info.plist temp-Info.plist
+s299683811.103922
+e299683811.130871
+r1
+xProcessInfoPlistFile
+x/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/Info.plist
+xtemp-Info.plist
+lSLF07#2@23"Process temp-Info.plist299683811#299683811#0(0"0(0#0#66"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/temp-Info.plist13229804948881508#506"    cd /Users/kps/Developer/iphonedev/cs193p/assign3/temp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility temp-Info.plist -genpkginfo /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app/Info.plist0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch.gch temp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299683811.402686
+e299683812.451679
+r1
+xProcessPCH
+x/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch.gch
+xtemp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile temp_Prefix.pch299683811#299683812#0(0"0(0#0#66"/Users/kps/Developer/iphonedev/cs193p/assign3/temp/temp_Prefix.pch4300911832#1814"    cd /Users/kps/Developer/iphonedev/cs193p/assign3/temp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/temp-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/temp.build/Debug-iphonesimulator/temp.build/DerivedSources -c /Users/kps/Developer/iphonedev/cs193p/assign3/temp/temp_Prefix.pch -o /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/temp_Prefix-cvvjtvnvqvkefuenpyzvdfhubgwd/temp_Prefix.pch.gch0#
+
+CTouch /Users/kps/Developer/iphonedev/cs193p/assign3/temp/build/Debug-iphonesimulator/temp.app
+r0
+

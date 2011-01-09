@@ -1,0 +1,290 @@
+Taddrbook
+v7
+r0
+t283389570.727690
+cCheck dependencies
+cProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch.gch addrbook_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch.pth addrbook_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.o /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbk.o /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard+gps.o /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m
+cAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m
+cLd /Users/kps/Developer/macosxdev/src/addrbook/build/Debug/addrbook normal x86_64
+cAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrbk.h
+c000000004B2E740A0000000000000222
+t1261335562
+s546
+i<Foundation/Foundation.h>
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m
+c000000004B306DFA00000000000004EE
+t1261465082
+s1262
+i"addrbk.h"
+i"addrcard+gps.h"
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrbook.m
+c000000004B306CBF000000000000045C
+t1261464767
+s1116
+i<Foundation/Foundation.h>
+i"addrbk.h"
+i"addrcard+gps.h"
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrbook_Prefix.pch
+c000000004B2E4845000000000000009E
+t1261324357
+s158
+i<Foundation/Foundation.h>
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.h
+c000000004B2E87EB0000000000000316
+t1261340651
+s790
+i<Foundation/Foundation.h>
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m
+c000000004B306D5A0000000000000779
+t1261464922
+s1913
+i"addrcard+gps.h"
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrcard.h
+c000000004B2E704D00000000000002EC
+t1261334605
+s748
+i<Foundation/Foundation.h>
+
+N/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m
+c000000004B2E77F8000000000000076F
+t1261336568
+s1903
+i"addrcard.h"
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/addrbook
+t1261696770
+s22568
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbk.o
+t1261696770
+s15856
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.LinkFileList
+c000000004B33F6FF0000000000000167
+t1261696767
+s359
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.o
+t1261696770
+s9792
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard+gps.o
+t1261696770
+s20832
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard.o
+t1261336688
+s20760
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrbk.plist
+t1261696770
+s7632
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrbook.plist
+t1261696770
+s275
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrcard+gps.plist
+t1261696770
+s275
+
+N/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrcard.plist
+t2
+s0
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch.pth
+t1261334206
+s5480464
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch.gch
+t1261696770
+s41405200
+
+CAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m
+s283389570.575210
+e283389570.675231
+r1
+xAnalyze
+x/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m
+o/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m:44:9: warning: Potential leak of an object allocated on line 44 and stored into 'card'
+o         card = [[addrcard alloc] initWithFName:name1 LName:name2 Email:mail Zip:z];
+o                ^
+o1 diagnostic generated.
+lSLF07#2@60"Analyze /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283389570#283389570#0(267"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m:44:9: warning: Potential leak of an object allocated on line 44 and stored into 'card'         card = [[addrcard alloc] initWithFName:name1 LName:name2 Email:mail Zip:z];                ^1 diagnostic generated.1(0@71"Potential leak of an object allocated on line 44 and stored into 'card'283389570#18446744073709551615#0#7(17@0"283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#0"0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#1(3@6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#42#2#42#2#6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#44#2#44#2#17@0"283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#0"0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#1(3@6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#44#2#44#2#6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#44#9#44#75#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#44#9#0#0#0"1(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#44#9#44#75#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#0"0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#1(3@6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#44#9#44#75#6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#46#2#46#2#17@0"283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#0"0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#1(3@6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#46#2#46#2#6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#51#2#51#2#17@0"283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#0"0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#0#0#0#0#1(3@6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#51#2#51#2#6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#52#1#52#1#21@136"Object allocated on line 44 and stored into 'card' is no longer referenced after this point and has a retain count of +1 (object leaked)283389570#18446744073709551615#0#0(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#52#1#0#0#0"1(6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#52#1#52#1#136"Object allocated on line 44 and stored into 'card' is no longer referenced after this point and has a retain count of +1 (object leaked)6@52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283157882#52#1#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0#0#52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m4300885448#1583"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch --analyze /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrbk.plist0#
+
+CAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m
+s283389570.491449
+e283389570.575103
+r1
+xAnalyze
+x/Users/kps/Developer/macosxdev/src/addrbook/addrbook.m
+lSLF07#2@62"Analyze /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m283389570#283389570#0(0"0(0#0#54"/Users/kps/Developer/macosxdev/src/addrbook/addrbook.m4300885448#1587"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch --analyze /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrbook.plist0#
+
+CAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m
+s283389570.651248
+e283389570.727639
+r1
+xAnalyze
+x/Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m
+lSLF07#2@66"Analyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m283389570#283389570#0(0"0(0#0#58"/Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m4300885448#1595"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch --analyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrcard+gps.plist0#
+
+CAnalyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard.m
+s283027006.898737
+e283027007.008907
+r1
+xAnalyze
+x/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:43:1: error: expected identifier
+o {
+o ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:51:3: error: use of undeclared identifier 'zipCode'
+o         [zipCode release];
+o          ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:52:2: error: use of undeclared identifier 'zipCode'
+o         zipCode = [NSNumber initWithInteger: z];
+o         ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:57:80: error: expected ':'
+o         self.Desc = [NSString stringWithFormat:@"Name: %s %s, Email: %s, Zip: %d" self.FName self.LName self.Email [self zip]] ;
+o                                                                                       ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:62:40: error: expected method body
+o - (NSComparisonResult) compareAddrCards(addrcard *) card
+o                                        ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:64:24: error: use of undeclared identifier 'card'
+o         return [Desc compare: card.Desc];
+o                               ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:12:1: warning: incomplete implementation
+o @implementation addrcard
+o ^
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:12:1: warning: method definition for 'zip' not found
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:12:1: warning: method definition for 'compareAddrCards:' not found
+o/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:90:7: error: use of undeclared identifier 'zip'
+o         if ( zip == [card zip]) {
+o              ^
+o10 diagnostics generated.
+lSLF07#2@62"Analyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283027006#283027007#0(1616"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:43:1: error: expected identifier { ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:51:3: error: use of undeclared identifier 'zipCode'         [zipCode release];          ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:52:2: error: use of undeclared identifier 'zipCode'         zipCode = [NSNumber initWithInteger: z];         ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:57:80: error: expected ':'         self.Desc = [NSString stringWithFormat:@"Name: %s %s, Email: %s, Zip: %d" self.FName self.LName self.Email [self zip]] ;                                                                                       ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:62:40: error: expected method body - (NSComparisonResult) compareAddrCards(addrcard *) card                                        ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:64:24: error: use of undeclared identifier 'card'         return [Desc compare: card.Desc];                               ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:12:1: warning: incomplete implementation @implementation addrcard ^/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:12:1: warning: method definition for 'zip' not found/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:12:1: warning: method definition for 'compareAddrCards:' not found/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m:90:7: error: use of undeclared identifier 'zip'         if ( zip == [card zip]) {              ^10 diagnostics generated.1(25@46"Analyzer skipped this file due to parse errors283027006#18446744073709551615#0#7(25@19"expected identifier283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#43#0#43#0#0"0(25@38"use of undeclared identifier 'zipCode'283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#51#0#51#0#0"0(25@38"use of undeclared identifier 'zipCode'283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#52#0#52#0#0"0(25@12"expected ':'283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#57#0#57#0#0"0(25@20"expected method body283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#62#0#62#0#0"0(25@35"use of undeclared identifier 'card'283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#64#0#64#0#0"0(25@34"use of undeclared identifier 'zip'283027006#18446744073709551615#0#0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#90#0#90#0#0"0(6@54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283026917#0#0#0#0#0"0(0#0#54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m4300885448#1587"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch --analyze /Users/kps/Developer/macosxdev/src/addrbook/addrcard.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/StaticAnalyzer/normal/x86_64/addrcard.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies283389567#283389567#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbk.o /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283389570.336234
+e283389570.491342
+r1
+xCompileC
+xbuild/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbk.o
+x/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m283389570#283389570#0(0"0(0#0#52"/Users/kps/Developer/macosxdev/src/addrbook/addrbk.m4300885448#1529"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch -c /Users/kps/Developer/macosxdev/src/addrbook/addrbk.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbk.o0#
+
+CCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.o /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283389570.335058
+e283389570.475275
+r1
+xCompileC
+xbuild/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.o
+x/Users/kps/Developer/macosxdev/src/addrbook/addrbook.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m283389570#283389570#0(0"0(0#0#54"/Users/kps/Developer/macosxdev/src/addrbook/addrbook.m4300885448#1533"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch -c /Users/kps/Developer/macosxdev/src/addrbook/addrbook.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.o0#
+
+CCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard+gps.o /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283389570.475384
+e283389570.628731
+r1
+xCompileC
+xbuild/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard+gps.o
+x/Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m283389570#283389570#0(0"0(0#0#58"/Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m4300885448#1541"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch -c /Users/kps/Developer/macosxdev/src/addrbook/addrcard+gps.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard+gps.o0#
+
+CCompileC build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard.o /Users/kps/Developer/macosxdev/src/addrbook/addrcard.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283029488.209433
+e283029488.473306
+r1
+xCompileC
+xbuild/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard.o
+x/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kps/Developer/macosxdev/src/addrbook/addrcard.m283029488#283029488#0(0"0(0#0#54"/Users/kps/Developer/macosxdev/src/addrbook/addrcard.m4300885448#1533"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch -c /Users/kps/Developer/macosxdev/src/addrbook/addrcard.m -o /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrcard.o0#
+
+CLd /Users/kps/Developer/macosxdev/src/addrbook/build/Debug/addrbook normal x86_64
+s283389570.628829
+e283389570.651141
+r1
+xLd
+x/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/addrbook
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/kps/Developer/macosxdev/src/addrbook/build/Debug/addrbook283389570#283389570#0(0"0(0#0#0"4300885448#549"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -filelist /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/Objects-normal/x86_64/addrbook.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/kps/Developer/macosxdev/src/addrbook/build/Debug/addrbook0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch.pth addrbook_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s283027006.062543
+e283027006.729775
+r1
+xProcessPCH
+x/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch.pth
+xaddrbook_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@30"Precompile addrbook_Prefix.pch283027006#283027006#0(0"0(0#0#63"/Users/kps/Developer/macosxdev/src/addrbook/addrbook_Prefix.pch4300885448#1461"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -c /Users/kps/Developer/macosxdev/src/addrbook/addrbook_Prefix.pch -o /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-djxaohpvmwiumdbzcdbrccgrhcin/addrbook_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch.gch addrbook_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283389567.302098
+e283389570.334836
+r1
+xProcessPCH
+x/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch.gch
+xaddrbook_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile addrbook_Prefix.pch283389567#283389570#0(0"0(0#0#63"/Users/kps/Developer/macosxdev/src/addrbook/addrbook_Prefix.pch4300885448#1425"    cd /Users/kps/Developer/macosxdev/src/addrbook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/addrbook-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/addrbook/build/Debug -I/Users/kps/Developer/macosxdev/src/addrbook/build/Debug/include -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/addrbook/build/addrbook.build/Debug/addrbook.build/DerivedSources -c /Users/kps/Developer/macosxdev/src/addrbook/addrbook_Prefix.pch -o /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/addrbook_Prefix-dxntudxlkwwyobaywwunahwkssnh/addrbook_Prefix.pch.gch0#
+

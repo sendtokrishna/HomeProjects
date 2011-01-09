@@ -1,0 +1,10 @@
+b36d46712d27cc36066898e6320e4748 7b08d358fee0a2f0a54176fca8ea05c6 ffffffffffffffffffffffffffffffff 102 /Users/kps/Developer/macosxdev/src/F2CApp/build/Debug/F2CApp.app
+a54416528add3f0689b263fb6669d223 36f11a7119019cdb33b4367e64f9bfec ffffffffffffffffffffffffffffffff 15552 /Users/kps/Developer/macosxdev/src/F2CApp/build/Debug/F2CApp.app/Contents/MacOS/F2CApp
+000000004b340e58000000000002bb60 9820d75b717607de60322110f5c92d2f ffffffffffffffffffffffffffffffff 34364 /Users/kps/Developer/macosxdev/src/F2CApp/build/Debug/F2CApp.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004b340e58000000000000002d b8f89d09cf8d6835dc5cec73c555bce5 ffffffffffffffffffffffffffffffff 92 /Users/kps/Developer/macosxdev/src/F2CApp/build/Debug/F2CApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 f8ac662a233561d8d6209fde9c2dd130 ffffffffffffffffffffffffffffffff 8 /Users/kps/Developer/macosxdev/src/F2CApp/build/Debug/F2CApp.app/Contents/PkgInfo
+00000000000000000000000000000000 f8ac662a233561d8d6209fde9c2dd130 ffffffffffffffffffffffffffffffff 883 /Users/kps/Developer/macosxdev/src/F2CApp/build/Debug/F2CApp.app/Contents/Info.plist
+6ce9a7cca1adf8313a05316f47c5364c 2f17d56a10918c38799ef9a2fde1419f ffffffffffffffffffffffffffffffff 14644 /Users/kps/Developer/macosxdev/src/F2CApp/build/F2CApp.build/Debug/F2CApp.build/Objects-normal/x86_64/F2CApp.o
+6ce9a7cca1adfc513a05316f47c5369c c95360304d452667e11a9b65c9f6ac7f ffffffffffffffffffffffffffffffff 21088 /Users/kps/Developer/macosxdev/src/F2CApp/build/F2CApp.build/Debug/F2CApp.build/Objects-normal/x86_64/F2CAppAppDelegate.o
+6ce9a7ccea99f2093a05316f47c5363c 2fe904c43d34beae2b33305315bbac21 ffffffffffffffffffffffffffffffff 5000 /Users/kps/Developer/macosxdev/src/F2CApp/build/F2CApp.build/Debug/F2CApp.build/Objects-normal/x86_64/main.o
+000000000bf0a430000000000000016a 6ce9a7ccea99f2093a05316f47c53647 ffffffffffffffffffffffffffffffff 54212368 /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/F2CApp_Prefix-efnjwuhxvoaupcbisssdnvyzhygl/F2CApp_Prefix.pch.gch

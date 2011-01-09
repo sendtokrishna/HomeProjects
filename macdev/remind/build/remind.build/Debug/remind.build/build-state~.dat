@@ -1,0 +1,306 @@
+Tremind
+v7
+r0
+t283564244.412032
+cCheck dependencies
+cProcessInfoPlistFile /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Info.plist remind-Info.plist
+cCopyStringsFile /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kps/Developer/macosxdev/src/remind/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch.gch remind_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/remind.build/Debug/remind.build/Objects-normal/x86_64/main.o /Users/kps/Developer/macosxdev/src/remind/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/remind.build/Debug/remind.build/Objects-normal/x86_64/remindAppDelegate.o /Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/remind.build/Debug/remind.build/Objects-normal/x86_64/MyReminderApp.o /Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind normal x86_64
+cPBXCp build/Debug/remind.app/Contents/Frameworks/Growl.framework /Users/kps/Library/Frameworks/Growl.framework
+cTouch /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004A67D2A800000000000017ED
+t1248318120
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004A77A8FC00000000000005FE
+t1249356028
+s1534
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/cdefs.h
+c000000004A73D64F0000000000005623
+t1249105487
+s22051
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kps/Developer/macosxdev/src/remind/English.lproj/InfoPlist.strings
+c000000004B368CED000000000000002D
+t1261866221
+s45
+
+N/Users/kps/Developer/macosxdev/src/remind/English.lproj/MainMenu.xib
+c000000004B369A48000000000002E6A8
+t1261869640
+s190120
+
+N/Users/kps/Developer/macosxdev/src/remind/MyReminderApp.h
+c000000004B369A95000000000000017B
+t1261869717
+s379
+i<Cocoa/Cocoa.h>
+i<Growl/Growl.h>
+
+N/Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m
+c000000004B36A148000000000000035D
+t1261871432
+s861
+i"MyReminderApp.h"
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app
+t1261871444
+s102
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Frameworks/Growl.framework
+t1261871444
+s204
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Info.plist
+t1261871438
+s883
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind
+t1261871444
+s15984
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/PkgInfo
+t1261871438
+s8
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1261871438
+s92
+
+N/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/MainMenu.nib
+t1261871438
+s36847
+
+N/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/MyReminderApp.o
+t1261871443
+s17704
+
+N/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/main.o
+t1261871443
+s5000
+
+N/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/remind.LinkFileList
+c000000004B36A14E000000000000015D
+t1261871438
+s349
+
+N/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/remindAppDelegate.o
+t1261871443
+s21088
+
+N/Users/kps/Developer/macosxdev/src/remind/main.m
+c000000004B368CED00000000000000F4
+t1261866221
+s244
+i<Cocoa/Cocoa.h>
+
+N/Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.h
+c000000004B368CED0000000000000130
+t1261866221
+s304
+i<Cocoa/Cocoa.h>
+
+N/Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m
+c000000004B368CED0000000000000164
+t1261866221
+s356
+i"remindAppDelegate.h"
+
+N/Users/kps/Developer/macosxdev/src/remind/remind_Prefix.pch
+c000000004B368CED000000000000008F
+t1261866221
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/kps/Library/Frameworks/Growl.framework
+c000000004AC1865200000000000000CC
+t1254196818
+s204
+
+N/Users/kps/Library/Frameworks/Growl.framework/Growl
+c000000004AC186520000000000042488
+t1254196818
+s271496
+
+N/Users/kps/Library/Frameworks/Growl.framework/Headers/Growl.h
+c000000004AC186520000000000000082
+t1254196818
+s130
+i"GrowlDefines.h"
+i"GrowlApplicationBridge.h"
+i"GrowlApplicationBridge-Carbon.h"
+
+N/Users/kps/Library/Frameworks/Growl.framework/Headers/GrowlApplicationBridge-Carbon.h
+c000000004AC18652000000000000867E
+t1254196818
+s34430
+i<sys/cdefs.h>
+i<Carbon/Carbon.h>
+
+N/Users/kps/Library/Frameworks/Growl.framework/Headers/GrowlApplicationBridge.h
+c000000004AC186520000000000006B1D
+t1254196818
+s27421
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i"GrowlDefines.h"
+
+N/Users/kps/Library/Frameworks/Growl.framework/Headers/GrowlDefines.h
+c000000004AC186520000000000003D75
+t1254196818
+s15733
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch.gch
+t1261871442
+s54212368
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-hfdhsmgvvykkahaqmdywqlewwvnu/remind_Prefix.pch.gch
+t2
+s0
+
+Nremind-Info.plist
+c000000004B368CED00000000000003EA
+t1261866221
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies283564238#283564238#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/remind.build/Debug/remind.build/Objects-normal/x86_64/MyReminderApp.o /Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283564243.199181
+e283564243.505313
+r1
+xCompileC
+xbuild/remind.build/Debug/remind.build/Objects-normal/x86_64/MyReminderApp.o
+x/Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m283564243#283564243#0(0"0(0#0#57"/Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m4300885448#1556"    cd /Users/kps/Developer/macosxdev/src/remind    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/remind/build/Debug -F/Users/kps/Developer/macosxdev/src/remind/../../../../Library/Frameworks -I/Users/kps/Developer/macosxdev/src/remind/build/Debug/include -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch -c /Users/kps/Developer/macosxdev/src/remind/MyReminderApp.m -o /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/MyReminderApp.o0#
+
+CCompileC build/remind.build/Debug/remind.build/Objects-normal/x86_64/main.o /Users/kps/Developer/macosxdev/src/remind/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283564242.973010
+e283564243.199073
+r1
+xCompileC
+xbuild/remind.build/Debug/remind.build/Objects-normal/x86_64/main.o
+x/Users/kps/Developer/macosxdev/src/remind/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/kps/Developer/macosxdev/src/remind/main.m283564242#283564243#0(0"0(0#0#48"/Users/kps/Developer/macosxdev/src/remind/main.m4300885448#1538"    cd /Users/kps/Developer/macosxdev/src/remind    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/remind/build/Debug -F/Users/kps/Developer/macosxdev/src/remind/../../../../Library/Frameworks -I/Users/kps/Developer/macosxdev/src/remind/build/Debug/include -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch -c /Users/kps/Developer/macosxdev/src/remind/main.m -o /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/remind.build/Debug/remind.build/Objects-normal/x86_64/remindAppDelegate.o /Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283564242.974314
+e283564243.216285
+r1
+xCompileC
+xbuild/remind.build/Debug/remind.build/Objects-normal/x86_64/remindAppDelegate.o
+x/Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m283564242#283564243#0(0"0(0#0#61"/Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m4300885448#1564"    cd /Users/kps/Developer/macosxdev/src/remind    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/remind/build/Debug -F/Users/kps/Developer/macosxdev/src/remind/../../../../Library/Frameworks -I/Users/kps/Developer/macosxdev/src/remind/build/Debug/include -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch -c /Users/kps/Developer/macosxdev/src/remind/remindAppDelegate.m -o /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/remindAppDelegate.o0#
+
+CCompileXIB /Users/kps/Developer/macosxdev/src/remind/English.lproj/MainMenu.xib
+s283564238.360465
+e283564238.892260
+r1
+xCompileXIB
+x/Users/kps/Developer/macosxdev/src/remind/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib283564238#283564238#0(0"0(0#0#68"/Users/kps/Developer/macosxdev/src/remind/English.lproj/MainMenu.xib4300885448#335"    cd /Users/kps/Developer/macosxdev/src/remind    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kps/Developer/macosxdev/src/remind/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s283564238.356960
+e283564238.666790
+r1
+xCopyStringsFile
+x/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings283564238#283564238#0(0"0(0#0#73"/Users/kps/Developer/macosxdev/src/remind/English.lproj/InfoPlist.strings4300885448#370"    cd /Users/kps/Developer/macosxdev/src/remind    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind normal x86_64
+s283564243.505414
+e283564244.317841
+r1
+xLd
+x/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind
+xnormal
+xx86_64
+lSLF07#2@91"Link /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind283564243#283564244#0(0"0(0#0#0"4300885448#644"    cd /Users/kps/Developer/macosxdev/src/remind    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kps/Developer/macosxdev/src/remind/build/Debug -F/Users/kps/Developer/macosxdev/src/remind/build/Debug -F/Users/kps/Developer/macosxdev/src/remind/../../../../Library/Frameworks -filelist /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/remind.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Growl -o /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind0#
+
+CPBXCp build/Debug/remind.app/Contents/Frameworks/Growl.framework /Users/kps/Library/Frameworks/Growl.framework
+s283564244.317958
+e283564244.372281
+r1
+xPBXCp
+xbuild/Debug/remind.app/Contents/Frameworks/Growl.framework
+x/Users/kps/Library/Frameworks/Growl.framework
+lSLF07#2@50"Copy /Users/kps/Library/Frameworks/Growl.framework283564244#283564244#0(0"0(0#0#45"/Users/kps/Library/Frameworks/Growl.framework4300885448#328"    cd /Users/kps/Developer/macosxdev/src/remind    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Library/Frameworks/Growl.framework /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Info.plist remind-Info.plist
+s283564238.334733
+e283564238.356793
+r1
+xProcessInfoPlistFile
+x/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Info.plist
+xremind-Info.plist
+lSLF07#2@25"Process remind-Info.plist283564238#283564238#0(0"0(0#0#59"/Users/kps/Developer/macosxdev/src/remind/remind-Info.plist27584981513797680#316"    cd /Users/kps/Developer/macosxdev/src/remind    builtin-infoPlistUtility remind-Info.plist -genpkginfo /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch.gch remind_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283564238.892526
+e283564242.972768
+r1
+xProcessPCH
+x/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch.gch
+xremind_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile remind_Prefix.pch283564238#283564242#0(0"0(0#0#59"/Users/kps/Developer/macosxdev/src/remind/remind_Prefix.pch4300885448#1442"    cd /Users/kps/Developer/macosxdev/src/remind    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-generated-files.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-own-target-headers.hmap -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-all-target-headers.hmap -iquote /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/remind-project-headers.hmap -F/Users/kps/Developer/macosxdev/src/remind/build/Debug -F/Users/kps/Developer/macosxdev/src/remind/../../../../Library/Frameworks -I/Users/kps/Developer/macosxdev/src/remind/build/Debug/include -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/DerivedSources -c /Users/kps/Developer/macosxdev/src/remind/remind_Prefix.pch -o /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-hfdhsmgvvykkahaqmdywqlewwvnu/remind_Prefix.pch.gch remind_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app
+s283564244.372399
+e283564244.411960
+r1
+xTouch
+x/Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app
+lSLF07#2@70"Touch /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app283564244#283564244#0(0"0(0#0#0"4300885448#136"    cd /Users/kps/Developer/macosxdev/src/remind    /usr/bin/touch -c /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app0#
+

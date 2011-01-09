@@ -1,0 +1,12 @@
+e6d8800c38c9b70f646a2ed9ea73e970 862fb4ae967a325e64ab238eda84db04 ffffffffffffffffffffffffffffffff 23380 /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/MyReminderApp.o
+e6d8800c72d236d6646a2ed9ea735b37 564e9c99f458bc9411ac49957770b376 ffffffffffffffffffffffffffffffff 21088 /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/remindAppDelegate.o
+e6d8800c39e4ba3b646a2ed9ea735b97 3c66a35c346cc1bc243cc335547d6090 ffffffffffffffffffffffffffffffff 5000 /Users/kps/Developer/macosxdev/src/remind/build/remind.build/Debug/remind.build/Objects-normal/x86_64/main.o
+5bf20a401561003e179282da42bb66b2 7daadcd584ff4f9a045826391faec30f ffffffffffffffffffffffffffffffff 102 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app
+000000004ac1865200000000000000cc ef0f2ec285a4d5a4e540d15d4dde0148 ffffffffffffffffffffffffffffffff 204 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Frameworks/Growl.framework
+0adf0b676fd42f58355187f713fe60b4 b80d7d91fcb164a99f4aaef5323fabbe ffffffffffffffffffffffffffffffff 16880 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/MacOS/remind
+000000000bf22685000000000000016a e6d8800c39e4ba3b646a2ed9ea735bec ffffffffffffffffffffffffffffffff 54212368 /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-bntjfcdpadmcmcdrizjcjhoemron/remind_Prefix.pch.gch
+000000004b36e416000000000002fd06 ce9f018c2b0f1d7a03c9c42c534ea096 ffffffffffffffffffffffffffffffff 38044 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004b368ced000000000000002d c8b053f8626e6db85b00bea97de8f181 ffffffffffffffffffffffffffffffff 92 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 0be4e524bb3fa09ac60ec999ae0563a4 ffffffffffffffffffffffffffffffff 8 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/PkgInfo
+00000000000000000000000000000000 0be4e524bb3fa09ac60ec999ae0563a4 ffffffffffffffffffffffffffffffff 883 /Users/kps/Developer/macosxdev/src/remind/build/Debug/remind.app/Contents/Info.plist
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/remind_Prefix-hfdhsmgvvykkahaqmdywqlewwvnu/remind_Prefix.pch.gch

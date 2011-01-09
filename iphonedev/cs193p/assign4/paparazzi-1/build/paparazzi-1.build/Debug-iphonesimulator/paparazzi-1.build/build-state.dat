@@ -1,0 +1,548 @@
+Tpaparazzi-1
+v7
+r0
+t300383836.192835
+cCheck dependencies
+cProcessInfoPlistFile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Info.plist paparazzi_1-Info.plist
+cCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/MainWindow.xib
+cCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.xib
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/Bonsai_Stock.jpg Bonsai_Stock.jpg
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/Crystal_Ball.jpg Crystal_Ball.jpg
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/Forest.jpg Forest.jpg
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/river.jpg river.jpg
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/Stained_Glass_Window.jpg Stained_Glass_Window.jpg
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/Harry.jpg Harry.jpg
+cCpResource build/Debug-iphonesimulator/paparazzi-1.app/Tom.jpg Tom.jpg
+cCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.xib
+cCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.xib
+cProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch.gch paparazzi_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/main.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi_1AppDelegate.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PersonListViewController.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoListViewController.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoDetailViewController.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1 normal i386
+cGenerateDSYMFile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app.dSYM /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1
+cTouch /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Bonsai_Stock.jpg
+c000000004C3724A40000000000027BC1
+t1278682276
+s162753
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/CIMG2178.JPG
+c000000004A544E560000000000379739
+t1247039062
+s3643193
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/CIMG2099.JPG
+c0000000049DAA95E00000000003A69E5
+t1239066974
+s3828197
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.h
+c000000004C37362E000000000000023D
+t1278686766
+s573
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m
+c000000004C373755000000000000062D
+t1278687061
+s1581
+i"PersonListViewController.h"
+i"PhotoListViewController.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.xib
+c000000004C37367E0000000000006E91
+t1278686846
+s28305
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.h
+c000000004C3745A10000000000000247
+t1278690721
+s583
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m
+c000000004C374738000000000000085D
+t1278691128
+s2141
+i"PhotoDetailViewController.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.xib
+c000000004C3746D80000000000004257
+t1278691032
+s16983
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.h
+c000000004C3745BE0000000000000321
+t1278690750
+s801
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m
+c000000004C3746900000000000000DF8
+t1278690960
+s3576
+i"PhotoListViewController.h"
+i"PhotoDetailViewController.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.xib
+c000000004C37416700000000000075C6
+t1278689639
+s30150
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/family.jpg
+c0000000049DAA95E00000000003A69E5
+t1239066974
+s3828197
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.h
+c000000004C35E59A00000000000001F7
+t1278600602
+s503
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m
+c000000004C35F4E8000000000000068A
+t1278604520
+s1674
+i"paparazzi_1AppDelegate.h"
+i"PersonListViewController.h"
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Crystal_Ball.jpg
+c000000004C3724C80000000000023481
+t1278682312
+s144513
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Forest.jpg
+c000000004C3724F80000000000019FE4
+t1278682360
+s106468
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Harry.jpg
+c000000004C3725DD0000000000001541
+t1278682589
+s5441
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/MainWindow.xib
+c000000004C35F4680000000000006CD3
+t1278604392
+s27859
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Stained_Glass_Window.jpg
+c000000004C3724DB000000000005DFC1
+t1278682331
+s384961
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Tom.jpg
+c000000004C3725D000000000000012ED
+t1278682576
+s4845
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app
+t1278691036
+s612
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app.dSYM
+t1278691036
+s102
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Bonsai_Stock.jpg
+t1278682715
+s162753
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/CIMG2099.JPG
+t2
+s0
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/CIMG2178.JPG
+t2
+s0
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Crystal_Ball.jpg
+t1278682715
+s144513
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Forest.jpg
+t1278682715
+s106468
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Harry.jpg
+t1278682715
+s5441
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Info.plist
+t1278599261
+s609
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/MainWindow.nib
+t1278604398
+s2968
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PersonListViewController.nib
+t1278686851
+s3993
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PhotoDetailViewController.nib
+t1278691035
+s1327
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PhotoListViewController.nib
+t1278689648
+s4260
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PkgInfo
+t1278599261
+s8
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Stained_Glass_Window.jpg
+t1278682715
+s384961
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Tom.jpg
+t1278682715
+s4845
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/family.jpg
+t1278605118
+s3828197
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paddu.jpg
+t1278605118
+s3643193
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1
+t1278691036
+s27316
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/river.jpg
+t1278682715
+s315856
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PersonListViewController.o
+t1278690895
+s33168
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoDetailViewController.o
+t1278691036
+s34036
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoListViewController.o
+t1278691036
+s37648
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/main.o
+t1278599263
+s5988
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi-1.LinkFileList
+c000000004C37416E0000000000000337
+t1278689646
+s823
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi_1AppDelegate.o
+t1278686851
+s41196
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m
+c000000004C35DBE00000000000000163
+t1278598112
+s355
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paddu.jpg
+c000000004A544E560000000000379739
+t1247039062
+s3643193
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paparazzi_1_Prefix.pch
+c000000004C35DBE000000000000000BF
+t1278598112
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/river.jpg
+c000000004C372512000000000004D1D0
+t1278682386
+s315856
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch.gch
+t1278599262
+s13026768
+
+Npaparazzi_1-Info.plist
+c000000004C35DBE0000000000000038D
+t1278598112
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300383835#300383835#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PersonListViewController.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300383695.360132
+e300383695.527073
+r1
+xCompileC
+xbuild/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PersonListViewController.o
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m300383695#300383695#0(0"0(0#0#92"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m4300911832#2196"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.m -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PersonListViewController.o0#
+
+CCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoDetailViewController.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300383835.985034
+e300383836.062545
+r1
+xCompileC
+xbuild/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoDetailViewController.o
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m300383835#300383836#0(0"0(0#0#93"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m4300911832#2198"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.m -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoDetailViewController.o0#
+
+CCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoListViewController.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300383835.983676
+e300383836.075873
+r1
+xCompileC
+xbuild/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoListViewController.o
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m300383835#300383836#0(0"0(0#0#91"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m4300911832#2194"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.m -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/PhotoListViewController.o0#
+
+CCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/main.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300292062.979893
+e300292063.167139
+r1
+xCompileC
+xbuild/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/main.o
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m300292062#300292063#0(0"0(0#0#64"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m4300911832#2148"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/main.m -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/main.o0#
+
+CCompileC build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi_1AppDelegate.o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300379651.463871
+e300379651.587521
+r1
+xCompileC
+xbuild/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi_1AppDelegate.o
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m300379651#300379651#0(0"0(0#0#90"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m4300911832#2192"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/paparazzi_1AppDelegate.m -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi_1AppDelegate.o0#
+
+CCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.xib
+s300379648.780181
+e300379651.463491
+r1
+xCompileXIB
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.xib
+o2010-07-09 07:47:30.202 ibtool[800:607] __CFServiceControllerBeginPBSLoadForLocalizations timed out while talking to pbs
+lSLF07#2@47"CompileXIB Classes/PersonListViewController.xib300379648#300379651#0(121"2010-07-09 07:47:30.202 ibtool[800:607] __CFServiceControllerBeginPBSLoadForLocalizations timed out while talking to pbs0(0#0#94"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.xib4300911832#579"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PersonListViewController.nib /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PersonListViewController.xib0#
+
+CCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.xib
+s300383835.348250
+e300383835.982827
+r1
+xCompileXIB
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.xib
+lSLF07#2@48"CompileXIB Classes/PhotoDetailViewController.xib300383835#300383835#0(0"0(0#0#95"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.xib4300911832#581"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PhotoDetailViewController.nib /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoDetailViewController.xib0#
+
+CCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.xib
+s300382446.253380
+e300382448.095423
+r1
+xCompileXIB
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.xib
+lSLF07#2@46"CompileXIB Classes/PhotoListViewController.xib300382446#300382448#0(0"0(0#0#93"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.xib4300911832#577"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PhotoListViewController.nib /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/PhotoListViewController.xib0#
+
+CCompileXIB /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/MainWindow.xib
+s300297197.643091
+e300297198.303563
+r1
+xCompileXIB
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300297197#300297198#0(0"0(0#0#72"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/MainWindow.xib4300911832#543"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/MainWindow.nib /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/Bonsai_Stock.jpg Bonsai_Stock.jpg
+s300375515.843555
+e300375516.000953
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/Bonsai_Stock.jpg
+xBonsai_Stock.jpg
+lSLF07#2@21"Copy Bonsai_Stock.jpg300375515#300375516#0(0"0(0#0#74"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Bonsai_Stock.jpg4300911832#521"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Bonsai_Stock.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/CIMG2099.JPG Classes/CIMG2099.JPG
+r0
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/CIMG2178.JPG CIMG2178.JPG
+r0
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/Crystal_Ball.jpg Crystal_Ball.jpg
+s300375515.844249
+e300375516.001243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/Crystal_Ball.jpg
+xCrystal_Ball.jpg
+lSLF07#2@21"Copy Crystal_Ball.jpg300375515#300375516#0(0"0(0#0#74"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Crystal_Ball.jpg4300911832#521"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Crystal_Ball.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/Forest.jpg Forest.jpg
+s300375515.845922
+e300375515.997421
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/Forest.jpg
+xForest.jpg
+lSLF07#2@15"Copy Forest.jpg300375515#300375515#0(0"0(0#0#68"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Forest.jpg4300911832#515"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Forest.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/Harry.jpg Harry.jpg
+s300375515.875109
+e300375515.988152
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/Harry.jpg
+xHarry.jpg
+lSLF07#2@14"Copy Harry.jpg300375515#300375515#0(0"0(0#0#67"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Harry.jpg4300911832#514"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Harry.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/Stained_Glass_Window.jpg Stained_Glass_Window.jpg
+s300375515.873139
+e300375516.010869
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/Stained_Glass_Window.jpg
+xStained_Glass_Window.jpg
+lSLF07#2@29"Copy Stained_Glass_Window.jpg300375515#300375516#0(0"0(0#0#82"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Stained_Glass_Window.jpg4300911832#529"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Stained_Glass_Window.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/Tom.jpg Tom.jpg
+s300375515.878129
+e300375515.988304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/Tom.jpg
+xTom.jpg
+lSLF07#2@12"Copy Tom.jpg300375515#300375515#0(0"0(0#0#65"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Tom.jpg4300911832#512"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Tom.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/family.jpg Classes/family.jpg
+s300297917.992925
+e300297918.321377
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/family.jpg
+xClasses/family.jpg
+lSLF07#2@23"Copy Classes/family.jpg300297917#300297918#0(0"0(0#0#76"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/family.jpg4300911832#523"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/Classes/family.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/paddu.jpg paddu.jpg
+s300297917.993717
+e300297918.318857
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/paddu.jpg
+xpaddu.jpg
+lSLF07#2@14"Copy paddu.jpg300297917#300297918#0(0"0(0#0#67"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paddu.jpg4300911832#514"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paddu.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CCpResource build/Debug-iphonesimulator/paparazzi-1.app/river.jpg river.jpg
+s300375515.847498
+e300375516.008215
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/paparazzi-1.app/river.jpg
+xriver.jpg
+lSLF07#2@14"Copy river.jpg300375515#300375516#0(0"0(0#0#67"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/river.jpg4300911832#514"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/river.jpg /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+
+CGenerateDSYMFile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app.dSYM /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1
+s300383836.132075
+e300383836.189546
+r1
+xGenerateDSYMFile
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app.dSYM
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/paparazzi-1.app.dSYM build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1300383836#300383836#0(0"0(0#0#113"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-14300911832#452"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1 -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app.dSYM0#
+
+CLd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1 normal i386
+s300383836.075974
+e300383836.131976
+r1
+xLd
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1
+xnormal
+xi386
+lSLF07#2@118"Link /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-1300383836#300383836#0(0"0(0#0#0"4300911832#979"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -filelist /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/Objects-normal/i386/paparazzi-1.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/paparazzi-10#
+
+CProcessInfoPlistFile /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Info.plist paparazzi_1-Info.plist
+s300292061.285228
+e300292061.304985
+r1
+xProcessInfoPlistFile
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Info.plist
+xpaparazzi_1-Info.plist
+lSLF07#2@30"Process paparazzi_1-Info.plist300292061#300292061#0(0"0(0#0#80"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paparazzi_1-Info.plist32651513917341812#548"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility paparazzi_1-Info.plist -genpkginfo /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app/Info.plist0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch.gch paparazzi_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300292061.623775
+e300292062.979668
+r1
+xProcessPCH
+x/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch.gch
+xpaparazzi_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile paparazzi_1_Prefix.pch300292061#300292062#0(0"0(0#0#80"/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paparazzi_1_Prefix.pch4300911832#2017"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-generated-files.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-own-target-headers.hmap -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-all-target-headers.hmap -iquote /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/paparazzi-1-project-headers.hmap -F/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/include -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources/i386 -I/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/paparazzi-1.build/Debug-iphonesimulator/paparazzi-1.build/DerivedSources -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/paparazzi_1_Prefix.pch -o /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/paparazzi_1_Prefix-afwnudkjvucyaigtuaifrckpjgns/paparazzi_1_Prefix.pch.gch0#
+
+CTouch /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app
+s300383836.189652
+e300383836.192782
+r1
+xTouch
+x/Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app
+lSLF07#2@107"Touch /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app300383836#300383836#0(0"0(0#0#0"4300911832#320"    cd /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kps/Developer/iphonedev/cs193p/assign4/paparazzi-1/build/Debug-iphonesimulator/paparazzi-1.app0#
+

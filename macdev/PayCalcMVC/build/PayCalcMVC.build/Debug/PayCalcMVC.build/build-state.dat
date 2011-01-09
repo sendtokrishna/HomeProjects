@@ -1,0 +1,251 @@
+TPayCalcMVC
+v7
+r0
+t284067034.797131
+cCheck dependencies
+cProcessInfoPlistFile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Info.plist PayCalcMVC-Info.plist
+cCopyStringsFile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch.gch PayCalcMVC_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/PayCalcMVC_DataModel.mom /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel
+cCompileC build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/main.o /Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC_AppDelegate.o /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/MyEmployee.o /Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/MacOS/PayCalcMVC normal x86_64
+cTouch /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004AB9AB42000000000000043A
+t1253681986
+s1082
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/InfoPlist.strings
+c000000004B3E3732000000000000005A
+t1262368562
+s90
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/MainMenu.xib
+c000000004B3E4D53000000000002CA4C
+t1262374227
+s182860
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.h
+c000000004B3E425F0000000000000216
+t1262371423
+s534
+i<CoreData/CoreData.h>
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m
+c000000004B3E46A50000000000000532
+t1262372517
+s1330
+i"MyEmployee.h"
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.h
+c000000004B3E373200000000000002FF
+t1262368562
+s767
+i<Cocoa/Cocoa.h>
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m
+c000000004B3E37320000000000001E11
+t1262368562
+s7697
+i"PayCalcMVC_AppDelegate.h"
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel
+c000000004B3E46700000000000000088
+t1262372464
+s136
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_Prefix.pch
+c000000004B3E37320000000000000097
+t1262368562
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app
+t1262374234
+s102
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Info.plist
+t1262370790
+s895
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/MacOS/PayCalcMVC
+t1262372519
+s23272
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/PkgInfo
+t1262370790
+s8
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1262370790
+s90
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj/MainMenu.nib
+t1262374234
+s37294
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/PayCalcMVC_DataModel.mom
+t1262372464
+s3632
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/MyEmployee.o
+t1262372519
+s14500
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC.LinkFileList
+c000000004B3E46700000000000000183
+t1262372464
+s387
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC_AppDelegate.o
+t1262370794
+s41768
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/main.o
+t1262370794
+s5008
+
+N/Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m
+c000000004B3E373200000000000000F6
+t1262368562
+s246
+i<Cocoa/Cocoa.h>
+
+N/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch.gch
+t1262370794
+s54212368
+
+NPayCalcMVC-Info.plist
+c000000004B3E373200000000000003F3
+t1262368562
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies284067034#284067034#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/MyEmployee.o /Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284065319.259238
+e284065319.396421
+r1
+xCompileC
+xbuild/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/MyEmployee.o
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m284065319#284065319#0(0"0(0#0#58"/Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m4300885448#1187"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/PayCalcMVC.hmap -F/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/include -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch -c /Users/kps/Developer/macosxdev/src/PayCalcMVC/MyEmployee.m -o /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/MyEmployee.o0#
+
+CCompileC build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC_AppDelegate.o /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284063594.789205
+e284063594.970605
+r1
+xCompileC
+xbuild/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC_AppDelegate.o
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m284063594#284063594#0(0"0(0#0#70"/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m3275089324280537600#1211"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/PayCalcMVC.hmap -F/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/include -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch -c /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_AppDelegate.m -o /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC_AppDelegate.o0#
+
+CCompileC build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/main.o /Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284063594.638551
+e284063594.873201
+r1
+xCompileC
+xbuild/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/main.o
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m284063594#284063594#0(0"0(0#0#52"/Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m4300885448#1175"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/PayCalcMVC.hmap -F/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/include -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources -include /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch -c /Users/kps/Developer/macosxdev/src/PayCalcMVC/main.m -o /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/MainMenu.xib
+s284067034.281150
+e284067034.793544
+r1
+xCompileXIB
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib284067034#284067034#0(0"0(0#0#72"/Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/MainMenu.xib4300885448#351"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s284063590.426776
+e284063590.631657
+r1
+xCopyStringsFile
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings284063590#284063590#0(0"0(0#0#77"/Users/kps/Developer/macosxdev/src/PayCalcMVC/English.lproj/InfoPlist.strings4300885448#383"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/PayCalcMVC_DataModel.mom /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel
+s284065264.075778
+e284065264.136113
+r1
+xDataModelCompile
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/PayCalcMVC_DataModel.mom
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel
+o/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel:MyEmployee.hourlyRate: warning: MyEmployee.hourlyRate -- default value is smaller than minimum value 
+lSLF07#2@86"Compile /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel284065264#284065264#0(181"/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel:MyEmployee.hourlyRate: warning: MyEmployee.hourlyRate -- default value is smaller than minimum value 1(22@69"MyEmployee.hourlyRate -- default value is smaller than minimum value 284065264#18446744073709551615#0#0(6@78"/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel284065264#0#0#0#0#0"0(0#0#78"/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel4300885448#306"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_DataModel.xcdatamodel /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Resources/PayCalcMVC_DataModel.mom0#
+
+CLd /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/MacOS/PayCalcMVC normal x86_64
+s284065319.396514
+e284065319.434451
+r1
+xLd
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/MacOS/PayCalcMVC
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/MacOS/PayCalcMVC284065319#284065319#0(0"0(0#0#0"4300885448#592"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug -F/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug -filelist /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/Objects-normal/x86_64/PayCalcMVC.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/MacOS/PayCalcMVC0#
+
+CProcessInfoPlistFile /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Info.plist PayCalcMVC-Info.plist
+s284063590.380341
+e284063590.426659
+r1
+xProcessInfoPlistFile
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Info.plist
+xPayCalcMVC-Info.plist
+lSLF07#2@29"Process PayCalcMVC-Info.plist284063590#284063590#0(0"0(0#0#67"/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC-Info.plist28147961534414964#340"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    builtin-infoPlistUtility PayCalcMVC-Info.plist -genpkginfo /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch.gch PayCalcMVC_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284063590.810921
+e284063594.637377
+r1
+xProcessPCH
+x/var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch.gch
+xPayCalcMVC_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PayCalcMVC_Prefix.pch284063590#284063594#0(0"0(0#0#67"/Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_Prefix.pch4300885448#1071"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/PayCalcMVC.hmap -F/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/include -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources/x86_64 -I/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/PayCalcMVC.build/Debug/PayCalcMVC.build/DerivedSources -c /Users/kps/Developer/macosxdev/src/PayCalcMVC/PayCalcMVC_Prefix.pch -o /var/folders/k0/k0g8NxbnE7Srk-LpDkff0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PayCalcMVC_Prefix-fsqtnregzrebjiaispnxszelsytx/PayCalcMVC_Prefix.pch.gch0#
+
+CTouch /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app
+s284067034.794237
+e284067034.797084
+r1
+xTouch
+x/Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app
+lSLF07#2@78"Touch /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app284067034#284067034#0(0"0(0#0#0"4300885448#148"    cd /Users/kps/Developer/macosxdev/src/PayCalcMVC    /usr/bin/touch -c /Users/kps/Developer/macosxdev/src/PayCalcMVC/build/Debug/PayCalcMVC.app0#
+
